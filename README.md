@@ -12,7 +12,7 @@ https://colab.research.google.com/drive/11CBJyNVn1eDjd7NWQb9RcEUejYA7L0Be?usp=sh
 
 – Diabetes completa, com 8 entradas e 700+ exemplos
 
-• https://raw.githubusercontent.com/jbrownlee/Datasets/master/pima
+• https://github.com/jbrownlee/Datasets/blob/master/pima-indians-diabetes.data.csv
 
 – indians-diabetes.data.csv
 
